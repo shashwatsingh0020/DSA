@@ -8,6 +8,7 @@ DSA Questions in java from leetcode
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/shashwatsingh0020/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0189-rotate-array](https://github.com/shashwatsingh0020/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/shashwatsingh0020/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,4 +39,8 @@ DSA Questions in java from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/shashwatsingh0020/DSA/tree/main/0856-score-of-parentheses/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/shashwatsingh0020/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
