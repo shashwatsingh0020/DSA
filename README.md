@@ -17,11 +17,13 @@ DSA Questions in java from leetcode
 | [0042-trapping-rain-water](https://github.com/shashwatsingh0020/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0189-rotate-array](https://github.com/shashwatsingh0020/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/shashwatsingh0020/DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0392-is-subsequence](https://github.com/shashwatsingh0020/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/shashwatsingh0020/DSA/tree/main/0443-string-compression/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/shashwatsingh0020/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0392-is-subsequence](https://github.com/shashwatsingh0020/DSA/tree/main/0392-is-subsequence/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +40,7 @@ DSA Questions in java from leetcode
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0392-is-subsequence](https://github.com/shashwatsingh0020/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/shashwatsingh0020/DSA/tree/main/0443-string-compression/) | Medium |
 | [0856-score-of-parentheses](https://github.com/shashwatsingh0020/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 ## Bracket Sequences
