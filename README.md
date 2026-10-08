@@ -6,6 +6,7 @@ DSA Questions in java from leetcode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/shashwatsingh0020/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/shashwatsingh0020/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0189-rotate-array](https://github.com/shashwatsingh0020/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/shashwatsingh0020/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -14,6 +15,7 @@ DSA Questions in java from leetcode
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/shashwatsingh0020/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/shashwatsingh0020/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0189-rotate-array](https://github.com/shashwatsingh0020/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/shashwatsingh0020/DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -54,6 +56,7 @@ DSA Questions in java from leetcode
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/shashwatsingh0020/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/shashwatsingh0020/DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
