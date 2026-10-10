@@ -16,6 +16,7 @@ DSA Questions in java from leetcode
 | [1004-max-consecutive-ones-iii](https://github.com/shashwatsingh0020/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shashwatsingh0020/DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shashwatsingh0020/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/shashwatsingh0020/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@ DSA Questions in java from leetcode
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/shashwatsingh0020/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shashwatsingh0020/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/shashwatsingh0020/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
