@@ -50,6 +50,7 @@ DSA Questions in java from leetcode
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shashwatsingh0020/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0392-is-subsequence](https://github.com/shashwatsingh0020/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/shashwatsingh0020/DSA/tree/main/0443-string-compression/) | Medium |
 | [0856-score-of-parentheses](https://github.com/shashwatsingh0020/DSA/tree/main/0856-score-of-parentheses/) | Medium |
@@ -77,6 +78,7 @@ DSA Questions in java from leetcode
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shashwatsingh0020/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shashwatsingh0020/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -85,6 +87,7 @@ DSA Questions in java from leetcode
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shashwatsingh0020/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/shashwatsingh0020/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/shashwatsingh0020/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shashwatsingh0020/DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
