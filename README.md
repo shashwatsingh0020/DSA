@@ -41,6 +41,7 @@ DSA Questions in java from leetcode
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/shashwatsingh0020/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0856-score-of-parentheses](https://github.com/shashwatsingh0020/DSA/tree/main/0856-score-of-parentheses/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/shashwatsingh0020/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@ DSA Questions in java from leetcode
 | [0443-string-compression](https://github.com/shashwatsingh0020/DSA/tree/main/0443-string-compression/) | Medium |
 | [0856-score-of-parentheses](https://github.com/shashwatsingh0020/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shashwatsingh0020/DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/shashwatsingh0020/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +102,8 @@ DSA Questions in java from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/shashwatsingh0020/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/shashwatsingh0020/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
