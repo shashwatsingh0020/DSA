@@ -6,6 +6,7 @@ DSA Questions in java from leetcode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/shashwatsingh0020/DSA/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/shashwatsingh0020/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/shashwatsingh0020/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0189-rotate-array](https://github.com/shashwatsingh0020/DSA/tree/main/0189-rotate-array/) | Medium |
@@ -82,6 +83,7 @@ DSA Questions in java from leetcode
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/shashwatsingh0020/DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashwatsingh0020/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/shashwatsingh0020/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shashwatsingh0020/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
