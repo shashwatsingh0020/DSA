@@ -8,6 +8,7 @@ DSA Questions in java from leetcode
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shashwatsingh0020/DSA/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/shashwatsingh0020/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/shashwatsingh0020/DSA/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/shashwatsingh0020/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0189-rotate-array](https://github.com/shashwatsingh0020/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/shashwatsingh0020/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -25,6 +26,7 @@ DSA Questions in java from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shashwatsingh0020/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/shashwatsingh0020/DSA/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/shashwatsingh0020/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0189-rotate-array](https://github.com/shashwatsingh0020/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/shashwatsingh0020/DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -91,6 +93,7 @@ DSA Questions in java from leetcode
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/shashwatsingh0020/DSA/tree/main/0015-3sum/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shashwatsingh0020/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
