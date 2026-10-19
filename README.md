@@ -61,6 +61,7 @@ DSA Questions in java from leetcode
 | [0443-string-compression](https://github.com/shashwatsingh0020/DSA/tree/main/0443-string-compression/) | Medium |
 | [0856-score-of-parentheses](https://github.com/shashwatsingh0020/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shashwatsingh0020/DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/shashwatsingh0020/DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/shashwatsingh0020/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -88,12 +89,14 @@ DSA Questions in java from leetcode
 | [0001-two-sum](https://github.com/shashwatsingh0020/DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashwatsingh0020/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/shashwatsingh0020/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1657-determine-if-two-strings-are-close](https://github.com/shashwatsingh0020/DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shashwatsingh0020/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shashwatsingh0020/DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/shashwatsingh0020/DSA/tree/main/0015-3sum/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/shashwatsingh0020/DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shashwatsingh0020/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -111,4 +114,8 @@ DSA Questions in java from leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/shashwatsingh0020/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/shashwatsingh0020/DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 <!---LeetCode Topics End-->
